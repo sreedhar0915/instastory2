@@ -26,7 +26,7 @@ class Myapp extends StatelessWidget {
             "https://images.pexels.com/photos/27540341/pexels-photo-27540341/free-photo-of-a-woman-in-a-white-dress-is-standing-next-to-a-horse.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
       },
       {
-        "name": "chinnu",
+        "name": "child",
         "dp":
             "https://images.pexels.com/photos/16879010/pexels-photo-16879010/free-photo-of-little-girl-in-traditional-clothing.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
         "bg":
